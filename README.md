@@ -3,7 +3,7 @@
 
 #### FIND FULL DEMO HERE: https://gentle-atoll-83362.herokuapp.com/notes
 
-![Note Taker demo](https://user-images.githubusercontent.com/13324397/108617403-b06e9000-73db-11eb-81fb-64df4a51dff8.gif)
+![Note Taker demo](![Note Taker App Demo](https://user-images.githubusercontent.com/13324397/108617676-07756480-73de-11eb-8171-c61cd73a1ca4.gif)
 
 
 ## Description 🤓
