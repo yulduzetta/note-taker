@@ -32,7 +32,7 @@ test("validates a note object", () => {
   expect(newNote.validateNewNote(invalidNoteObj)).toBe(false);
 });
 
-test("delete note", () => {
+test("deletes note", () => {
   const notes = [
     {
       id: "1",

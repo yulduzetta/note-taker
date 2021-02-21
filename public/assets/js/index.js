@@ -28,7 +28,6 @@ const hide = (elem) => {
 let activeNote = {};
 
 const getNotes = () => {
-  console.log("IN GET NOTES");
   return fetch("/api/notes", {
     method: "GET",
     headers: {
@@ -47,7 +46,6 @@ const saveNote = (note) =>
   });
 
 const deleteNote = (id) => {
-  console.log("IN DELETE NOTES");
   return fetch(`/api/notes/${id}`, {
     method: "DELETE",
     headers: {
