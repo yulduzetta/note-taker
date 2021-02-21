@@ -45,6 +45,8 @@ test("delete note", () => {
       text: "Note text-2",
     },
   ];
-  // TODO: logic test
+  let result = new Note().deleteNote("1", notes);
 
+  expect(result.length).toBe(1);
+  expect(result[0].id).toBe("2");
 });
