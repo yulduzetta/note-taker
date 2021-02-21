@@ -1,7 +1,7 @@
 
 # Note Taker ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
-#### FIND FULL DEMO HERE: https://gentle-atoll-83362.herokuapp.com/notes
+#### FIND DEPLOYED APP HERE: https://gentle-atoll-83362.herokuapp.com/notes
 
 ![Note Taker App Demo](https://user-images.githubusercontent.com/13324397/108617807-cd589280-73de-11eb-9af7-42d3c06a15ad.gif)
 
