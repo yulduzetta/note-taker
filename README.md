@@ -1,6 +1,10 @@
 
 # Note Taker ![MIT License](https://img.shields.io/badge/mit-brightgreen) ![Javascript](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
+#### FIND FULL DEMO HERE: https://gentle-atoll-83362.herokuapp.com/notes
+
+![Note Taker demo](https://user-images.githubusercontent.com/13324397/108617403-b06e9000-73db-11eb-81fb-64df4a51dff8.gif)
+
 
 ## Description 🤓
 Helps you organize your  thoughts and keep track of tasks you  need to accomplish
@@ -63,7 +67,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Open issues under https://github.com/yulduzetta/note-taker/issues
   
 ## Tests
-We use jest test framwork for our unit tests. To run tests locally,
+We use jest test framework for our unit tests. To run tests locally,
 ```typescript
 npm run test
 ```
