@@ -3,8 +3,7 @@
 
 #### FIND FULL DEMO HERE: https://gentle-atoll-83362.herokuapp.com/notes
 
-![Note Taker demo](![Note Taker App Demo](https://user-images.githubusercontent.com/13324397/108617676-07756480-73de-11eb-8171-c61cd73a1ca4.gif)
-
+![Note Taker App Demo](https://user-images.githubusercontent.com/13324397/108617807-cd589280-73de-11eb-9af7-42d3c06a15ad.gif)
 
 ## Description 🤓
 Helps you organize your  thoughts and keep track of tasks you  need to accomplish
